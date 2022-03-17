@@ -1,3 +1,5 @@
+**Reason for fork:** ARKStatsExtractor is an amazing and invaluable tool. WinForms is also a great tool for quickly and efficiently getting a user interface in place for a GUI app. There's no reason that the same logic can't be used with a more platform-agnostic user interface
+
 [**Download** the latest release](https://github.com/cadon/ARKStatsExtractor/releases/latest).
 
 **Which version** to take?
